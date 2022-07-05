@@ -4,5 +4,5 @@ require_relative "hello/version"
 
 module Hello
   class Error < StandardError; end
-  # Your code goes here...
+  puts 'My first gem'
 end
